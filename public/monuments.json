@@ -1,0 +1,20 @@
+[
+  {
+    "lng": -70.660536,
+    "lat": -33.46440437,
+    "description": "Parque Urbano más grande de Latinoamérica",
+    "image": "https://previews.123rf.com/images/erlucho/erlucho1703/erlucho170300221/76034061-telef%C3%A9rico-en-santiago-de-chile-cerro-san-crist%C3%B3bal.jpg?fj=1"
+  },
+  {
+    "lng": -70.6331258,
+    "lat": -33.42607583,
+    "description": "Parque O'higgins",
+    "image": "https://www.latercera.com/resizer/0wOHysEq0Cd4mBITrnjnU0Q7Ibc=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/RTB2PSGRCJFFJJRGSW5FVLZATU.jpg"
+  },
+  {
+    "lng": -70.6135285,
+    "lat": -33.51953149,
+    "description": "Museo Mirador, Parque Brasil",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Museo_Interactivo_Mirador-01.jpg"
+  }
+]
